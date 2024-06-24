@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987246300401",
+    "project_id": "nemodonationapp",
+    "storage_bucket": "nemodonationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987246300401:android:031f27dd11420f6b3eed50",
+        "android_client_info": {
+          "package_name": "com.nemodonationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvQyR59HZJLhB4_2zGNUueWQNEt7FNRzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
